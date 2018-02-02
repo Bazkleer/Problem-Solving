@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490720721 source:c:\users\hossam\documents\uva\10038 - jolly jumpers\main.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+
